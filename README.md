@@ -47,7 +47,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RobertoTappi/RobertoTappi/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
@@ -61,7 +61,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesp07&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
 <hr/>
 
 <h3 align="center">
